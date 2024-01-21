@@ -1,10 +1,7 @@
-import React from 'react'
 
-function ChannelDetail() {
+function ChannelDetail({ channelDetail }) {
   return (
-    <div>
-      Channel Detail
-    </div>
+    <></>
   )
 }
 
